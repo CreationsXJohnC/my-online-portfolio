@@ -135,6 +135,7 @@ input:focus, textarea:focus {
 nav,
 .scroll,
 .header {
+    z-index: 1;
     opacity: 1;
     visibility: visible;
     transition: all 600ms 800ms;
