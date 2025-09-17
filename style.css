@@ -606,7 +606,7 @@ footer {
 }
 
 .footer__logo--img {
-    width: 120px;
+    width: 125px;
 }
 
 .footer__social--list {
@@ -617,12 +617,18 @@ footer {
     margin: 28px 0;
 }
 
-.footer__social--link,
-.footer__copyright {
-    font-size: 16px;
+.footer__social--link {
+    font-size: 18px;
     color: #000000;
     font-weight: 700;
 }
+
+.footer__copyright {
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+}
+
 
 /* 
 
